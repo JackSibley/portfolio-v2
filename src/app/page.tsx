@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { TextRevealTW } from "./../../components/TextReveal";
 
 export default function Home() {
   return (
@@ -13,10 +14,8 @@ export default function Home() {
         <div className="lg:flex lg:justify-between lg:gap-4">
           <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
             <div>
-              <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
-                <a href="/"> Jack Sibley</a>
-              </h1>
-              <h2 className="fo mt-3 text-lg tracking-tight text-slate-200 sm:text-xl">
+              {TextRevealTW("Jack Sibley")}
+              <h2 className="fo mt-2.5 text-lg tracking-tight text-slate-200 sm:text-xl">
                 Graduate Software Engineer
               </h2>
               <p className="mt-4 max-w-xs leading-normal">

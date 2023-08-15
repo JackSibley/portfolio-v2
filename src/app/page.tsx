@@ -127,20 +127,20 @@ export default function Home() {
                   I enjoy crafting things that live on the internet. My interest
                   in technology started when I was only five years old and
                   received my first computer running Windows 98 on a pentium 2.
-                  I've always enjoyed being a tinkerer, managing to break and
-                  fix anything in software and hardware (oops sorry BIOS). My
-                  interest in development started by embedding widgets and
+                  I&apos;ve always enjoyed being a tinkerer, managing to break
+                  and fix anything in software and hardware (oops sorry BIOS).
+                  My interest in development started by embedding widgets and
                   auto-playing music into early social media pages, including
                   MySpace and Bebo.
                 </p>
                 <p className="mb-4">
-                  Fast forward to today, I've learnt many aspects of personal
-                  computing. Through my studies, I picked up a hobby now turned
-                  profession - DJing, touring local cities and playing at
-                  multiple venues and festivals across Australia. After falling
-                  in love with providing extraordinary experiences to listeners,
-                  I made the tough decision to take a break from my passion for
-                  computing to focus on my aspirations in music.
+                  Fast forward to today, I&apos;ve learnt many aspects of
+                  personal computing. Through my studies, I picked up a hobby
+                  now turned profession - DJing, touring local cities and
+                  playing at multiple venues and festivals across Australia.
+                  After falling in love with providing extraordinary experiences
+                  to listeners, I made the tough decision to take a break from
+                  my passion for computing to focus on my aspirations in music.
                 </p>
                 <p>
                   My main focus these days is to turn my passion for software

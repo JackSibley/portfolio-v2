@@ -25,7 +25,12 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ["var(--font-inter)"],
+        sans: [
+          "var(--font-inter)",
+          {
+            fontFeatureSettings: `"ss03", "cv02", "cv11"`,
+          },
+        ],
       },
     },
   },

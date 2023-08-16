@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/hb/",
-      "destination": "https://198.13.51.27:8081/"
+      "source": "/hb",
+      "destination": "https://198.13.51.27:8081"
     }
   ]
 }

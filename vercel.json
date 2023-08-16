@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/hb",
+      "destination": "http://198.13.51.27:8081"
+    }
+  ]
+}

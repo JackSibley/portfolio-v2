@@ -6,8 +6,7 @@ module.exports = {
     return [
       {
         source: "/hb",
-
-        destination: "http://198.13.51.27:8081/",
+        destination: "198.13.51.27:8081/",
       },
     ];
   },

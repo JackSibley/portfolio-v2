@@ -467,9 +467,9 @@ export default function Home() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Next.js{" "}
+                  Next.js
                 </a>
-                .Deployed with{" "}
+                . Deployed with{" "}
                 <a
                   href="https://vercel.com/"
                   className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"

@@ -1,3 +1,3 @@
 <h1 align="center"> jacksibley.dev - v2 </h1>
 
-<div align="center">The Second Iteration of [jacksibley.dev](https://jacksibley.dev) built with [Next.js](https://nextjs.org/) and [tailwindcss](https://tailwindcss.com/). Deployed with [Vercel](https://vercel.com/)</div>
+<div align="center">The Second Iteration of <a href="https://www.jacksibley.dev/">jacksibley.dev</a> built with <a href="https://nextjs.org/">Next.js</a> and <a href="https://tailwindcss.com/">tailwindcss</a>. Deployed with <a href="https://vercel.com/dashboard">Vercel</a></div>

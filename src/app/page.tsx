@@ -2,10 +2,12 @@
 import Image from "next/image";
 import { TextRevealTW } from "./../../components/TextReveal";
 import { Nav } from "./../../components/Nav";
+import { SpotlightEffect } from "../../components/SpotlightEffect";
 
 export default function Home() {
   return (
-    <body className="bg-slate-900 leading-relaxed text-slate-400 antialiased selection:bg-teal-300 selection:text-teal-900">
+    <body className=" bg-slate-900 leading-relaxed text-slate-400 antialiased selection:bg-teal-300 selection:text-teal-900">
+      {SpotlightEffect()}
       <div className="container mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
         <a
           href="#content"
@@ -467,9 +469,9 @@ export default function Home() {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Next.js{" "}
+                  Next.js
                 </a>
-                .Deployed with{" "}
+                . Deployed with{" "}
                 <a
                   href="https://vercel.com/"
                   className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"

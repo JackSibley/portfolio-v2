@@ -434,7 +434,7 @@ export default function Home() {
                           <h3>
                             <a
                               className="group/link inline-flex items-baseline text-base font-medium leading-tight text-slate-200  hover:text-teal-300 focus-visible:text-teal-300"
-                              href="https://github.com/JackSibley/Chuckie"
+                              // href="https://github.com/JackSibley/Chuckie"
                               target="_blank"
                               rel="noreferrer"
                               aria-label="Spotify Profile"
